@@ -629,6 +629,8 @@ num:sg:gen:m2:rec
 num:sg:gen:m3:rec
 num:sg:gen:n1:rec
 num:sg:gen:n2:rec
+num:sg:gen:p1:rec
+num:sg:gen:p2:rec
 num:sg:inst:f:rec
 num:sg:inst:m1:rec
 num:sg:inst:m2:rec
