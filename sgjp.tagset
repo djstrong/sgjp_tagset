@@ -287,8 +287,6 @@ cond:sg:m3:sec:imperf
 cond:sg:m3:sec:perf
 cond:sg:m3:ter:imperf
 cond:sg:m3:ter:perf
-cond:sg:n:imperf
-cond:sg:n:perf
 cond:sg:n:pri:imperf
 cond:sg:n:pri:perf
 cond:sg:n:sec:imperf
