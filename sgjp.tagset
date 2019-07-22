@@ -210,7 +210,8 @@ adj:sg:voc:n:pos
 adj:sg:voc:n:sup
 adja
 adjc
-adjp
+adjp:dat
+adjp:gen
 adv
 adv:com
 adv:pos
@@ -231,7 +232,6 @@ bedzie:sg:sec:imperf
 bedzie:sg:ter:imperf
 brev:npun
 brev:pun
-burk
 comp
 cond:pl:f:pri:imperf
 cond:pl:f:pri:perf
@@ -309,6 +309,7 @@ fin:sg:sec:imperf
 fin:sg:sec:perf
 fin:sg:ter:imperf
 fin:sg:ter:perf
+frag
 ger:pl:acc:n:imperf:aff
 ger:pl:acc:n:imperf:neg
 ger:pl:acc:n:perf:aff
@@ -683,6 +684,7 @@ pact:sg:voc:n:imperf:aff
 pact:sg:voc:n:imperf:neg
 pacta
 pant:perf
+part
 pcon:imperf
 ppas:pl:acc:f:imperf:aff
 ppas:pl:acc:f:imperf:neg
@@ -1476,7 +1478,6 @@ prep:loc
 prep:loc:nwok
 prep:loc:wok
 prep:nom
-qub
 subst:pl:acc:f
 subst:pl:acc:m1
 subst:pl:acc:m1:pt
