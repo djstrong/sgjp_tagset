@@ -296,6 +296,7 @@ cond:sg:n:sec:perf
 cond:sg:n:ter:imperf
 cond:sg:n:ter:perf
 conj
+depr:pl:acc:m2
 depr:pl:nom:m2
 depr:pl:voc:m2
 fin:pl:pri:imperf
@@ -369,7 +370,6 @@ impt:sg:sec:perf
 inf:imperf
 inf:perf
 interj
-num:comp
 num:pl:acc:f:congr:ncol
 num:pl:acc:f:rec
 num:pl:acc:f:rec:ncol
@@ -527,6 +527,7 @@ num:sg:voc:m1:rec
 num:sg:voc:m2:rec
 num:sg:voc:m3:rec
 num:sg:voc:n:rec
+numcomp
 pact:pl:acc:f:imperf:aff
 pact:pl:acc:f:imperf:neg
 pact:pl:acc:m1:imperf:aff
