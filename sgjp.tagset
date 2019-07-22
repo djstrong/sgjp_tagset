@@ -617,6 +617,8 @@ num:sg:acc:m2:rec
 num:sg:acc:m3:rec
 num:sg:acc:n1:rec
 num:sg:acc:n2:rec
+num:sg:acc:p1:rec
+num:sg:acc:p2:rec
 num:sg:dat:f:rec
 num:sg:dat:m1:rec
 num:sg:dat:m2:rec
@@ -647,6 +649,8 @@ num:sg:nom:m2:rec
 num:sg:nom:m3:rec
 num:sg:nom:n1:rec
 num:sg:nom:n2:rec
+num:sg:nom:p1:rec
+num:sg:nom:p2:rec
 num:sg:voc:f:rec
 num:sg:voc:m1:rec
 num:sg:voc:m2:rec
@@ -1877,11 +1881,6 @@ prep:loc:nwok
 prep:loc:wok
 prep:nom
 qub
-siebie:acc
-siebie:dat
-siebie:gen
-siebie:inst
-siebie:loc
 subst:pl:acc:f
 subst:pl:acc:m1
 subst:pl:acc:m2
